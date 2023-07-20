@@ -1,2 +1,2 @@
 # projeto xmen
- Proto utilizando HTML, CSS e Javascript
+ Projeto utilizando HTML, CSS e Javascript
